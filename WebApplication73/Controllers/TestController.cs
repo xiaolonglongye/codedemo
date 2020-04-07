@@ -47,5 +47,10 @@ namespace WebApplication73.Controllers
         {
             return View();
         }
+
+        public ActionResult hh()
+        {
+            return View();
+        }
     }
 }
