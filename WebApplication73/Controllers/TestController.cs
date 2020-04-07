@@ -13,9 +13,14 @@ namespace WebApplication73.Controllers
         {
             return View();
         }
-        public ActionResult ddd() {
+        public ActionResult Demo()
+        {
+            return View();
+        }
 
-            return view();
+        public ActionResult Test()
+        {
+            return View();
         }
     }
 }
