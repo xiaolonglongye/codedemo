@@ -43,5 +43,9 @@ namespace WebApplication73.Controllers
         {
             return View();
         }
+        public ActionResult 测试成功()
+        {
+            return View();
+        }
     }
 }
