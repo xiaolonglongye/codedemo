@@ -35,7 +35,10 @@ namespace WebApplication73.Controllers
         {
             return View();
         }
-
+        public ActionResult nx222222222()
+        {
+            return View();
+        }
 
     }
 }
