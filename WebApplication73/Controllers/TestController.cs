@@ -28,5 +28,8 @@ namespace WebApplication73.Controllers
         {
             return View();
         }
+        public ActionResult Zjh() {
+            return View();
+        }
     }
 }
