@@ -22,5 +22,11 @@ namespace WebApplication73.Controllers
         {
             return View();
         }
+
+
+        public ActionResult HUsongzhi()
+        {
+            return View();
+        }
     }
 }
